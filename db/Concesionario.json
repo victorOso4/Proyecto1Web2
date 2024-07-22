@@ -1,0 +1,20 @@
+[{
+    "id": 1,
+  "Nombre": "Mazda",
+  "Ciudad" :"Cali",
+  "Dirección": "calle 68a n11a 70",
+  "Telefono" :31255556
+  },{
+    "id": 1,
+  "Nombre": "Audi",
+  "Ciudad" :"Manizales",
+  "Dirección": "calle 68a n11a 29",
+  "Telefono" :31999856
+ },{
+    "id": 1,
+    "Nombre": "Victor",
+    "Ciudad" :"Neiva",
+    "Dirección": "calle 68a n11a 66",
+    "Telefono" :31658856
+
+}]

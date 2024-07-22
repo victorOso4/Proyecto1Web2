@@ -1,0 +1,24 @@
+[{
+    "id": 1,
+  "idLocal":1,
+  "Nombre": "Aceite",
+  "description" :"2 Litros",
+  "Precio": 25000,
+  "Cantidad" :4
+},{
+
+    "id": 2,
+  "idLocal":2,
+  "Nombre": "Parabrisas",
+  "description" :"2 Metros",
+  "Precio": 250000,
+  "Cantidad" :1
+},{
+
+    "id": 3,
+    "idLocal":3,
+    "Nombre": "Freno Disco",
+    "description" :"Kia Rio",
+    "Precio": 80000,
+    "Cantidad" :2
+}]

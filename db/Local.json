@@ -1,0 +1,20 @@
+[{
+"id": 1,
+  "Nombre": "MazdaRacing",
+  "Capacidad" :"Bodega",
+  "Dirección": "calle 68a n11a 80"
+
+
+},{
+
+    "id": 1,
+  "Nombre": "MazdaSport",
+  "Capacidad" :"Taller",
+  "Dirección": "calle 68a n11a 90"
+},{
+
+    "id": 1,
+  "Nombre": "NissanNitro",
+  "Capacidad" :"Bodega",
+  "Dirección": "calle 68a n11a 88"
+}]

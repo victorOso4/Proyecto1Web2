@@ -1,0 +1,21 @@
+[{
+"id": 1,
+  "idConcesionario":1,
+  "Nombre": "Pablo",
+  "Cargo" :"Asesor",
+  "Salario": 14.000
+},{
+"id": 2,
+  "idConcesionario":2,
+  "Nombre": "Andrea",
+  "Cargo" :"Vendedor",
+  "Salario": 9.000
+},{
+
+
+    "id": 3,
+  "idConcesionario":3,
+  "Nombre": "Emanuel",
+  "Cargo" :"Asesor",
+  "Salario": 14.000
+}]

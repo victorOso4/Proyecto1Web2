@@ -1,0 +1,27 @@
+[{
+
+    "id": 1,
+  "idLocal":1,
+  "Marca": "BMW",
+  "Modelo" :2025,
+  "Precio": 80000
+},{
+    
+    "id": 2,
+  "idLocal":2,
+  "Marca": "Audi",
+  "Modelo" :2024,
+  "Precio": 120000
+
+
+
+},{
+
+    
+    "id": 3,
+  "idLocal":3,
+  "Marca": "Tesla",
+  "Modelo" :2025,
+  "Precio": 200000
+}
+]

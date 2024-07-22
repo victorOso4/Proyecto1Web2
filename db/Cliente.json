@@ -1,0 +1,38 @@
+[{
+  "id": 1,
+  "idConcesionario":1,
+  "Nombre": "Victor",
+  "Correo" :"victor@prueba.com",
+  "Dirección": "calle 68a n11a 20",
+  "Telefono" :31245856
+
+    
+
+},{
+    "id": 2,
+  "idConcesionario":2,
+  "Nombre": "Samuel",
+  "Correo" :"Samuel@prueba.com",
+  "Dirección": "calle 11a n20a 10",
+  "Telefono" :31248556
+
+},{
+
+
+
+    "id": 3,
+  "idConcesionario":3,
+  "Nombre": "Camilo",
+  "Correo" :"Camilo@prueba.com",
+  "Dirección": "calle 88a n65a 20",
+  "Telefono" :31296856
+},{
+
+    "id": 4,
+  "idConcesionario":4,
+  "Nombre": "Manuel",
+  "Correo" :"Manuel@prueba.com",
+  "Dirección": "calle 22a n88a 12",
+  "Telefono" :31968856
+}
+]

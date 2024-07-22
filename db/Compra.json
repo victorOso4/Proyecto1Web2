@@ -1,0 +1,30 @@
+[{"id": 1,
+  "id_Cliente": 1,
+  "id_Empleado" :1,
+  "Fecha": "20 Julio 2024",
+  "Precio_Compra" :"8M"
+
+
+
+
+},{
+
+"id": 2,
+  "id_Cliente": 2,
+  "id_Empleado" :2,
+  "Fecha": "30 Junio 2024",
+  "Precio_Compra" :"9M"
+
+
+},{
+
+
+"id": 3,
+  "id_Cliente": 3,
+  "id_Empleado" :3,
+  "Fecha": "10 Abril 2024",
+  "Precio_Compra" :"5M"
+
+
+
+}]

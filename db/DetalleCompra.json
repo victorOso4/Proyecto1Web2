@@ -1,0 +1,29 @@
+[{
+    "id": 1,
+  "idCompra":1,
+  "idProducto": 1,
+  "TipoProducto" :"Carroseria",
+  "Cantidad": 4,
+  "PrecioTotal": 2000000,
+  "Precio" :15
+},{
+
+    "id": 2,
+  "idCompra":2,
+  "idProducto": 2,
+  "TipoProducto" :"Cilindro",
+  "Cantidad": 6,
+  "PrecioTotal": 4500000,
+  "Precio" :45
+},{
+
+"id": 1,
+  "idCompra":3,
+  "idProducto": 3,
+  "TipoProducto" :"Llantas",
+  "Cantidad": 4,
+  "PrecioTotal": 4800000,
+  "Precio" :35
+
+
+}]
